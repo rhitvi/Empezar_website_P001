@@ -1,7 +1,7 @@
 # Empezar Website
 
-## Getting Started
+### Getting Started
 
-## Installation
+### Installation
 
-## Acknowledgments
+### Acknowledgments
