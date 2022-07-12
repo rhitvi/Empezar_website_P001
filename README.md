@@ -1,6 +1,6 @@
 # Empezar Website
 
-### Getting Started
+## Getting Started
 
 ### Installation
 
